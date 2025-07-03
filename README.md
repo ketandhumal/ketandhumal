@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ketan Dhumal</h1>
-<h3 align="center">Cloud Enthusiast | AWS Certified | Azure Certified |DevOps Learner | </h3>
+<h3 align="center">Cloud Enthusiast | AWS Certified | Azure Certified | DevOps Learner | </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
  
