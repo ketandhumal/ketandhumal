@@ -2,17 +2,17 @@
 <h3 align="center">Cloud Enthusiast | AWS Certified | Azure Certified |DevOps Learner | </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning AWS, DevOps, Kubernetes. 
+ 
 - 💻 Passionate about Cloud Projects, Automation
 - 📜 AWS Certified Solutions Architect Associate
 - 🎯 Goal: Build scalable and secure cloud solutions
 
 ### 📫 Connect with me:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-jadhav-127586217](https://www.linkedin.com/in/ketan-dhumal-7a9b62214/)  
 
-📧 *Email:* kdhumal914@gmail.com
+*Linked In:* https://www.linkedin.com/in/ketan-dhumal-7a9b62214
+
+*Email:* kdhumal914@gmail.com
 
 ---
 
