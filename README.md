@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning *AWS, DevOps, Kubernetes. 
-- 💻 Passionate about *Cloud Projects, Automation, and Open Source*
-- 📜 AWS Certified *Solutions Architect Associate*
+- 🌱 I’m currently learning AWS, DevOps, Kubernetes. 
+- 💻 Passionate about Cloud Projects, Automation
+- 📜 AWS Certified Solutions Architect Associate
 - 🎯 Goal: Build scalable and secure cloud solutions
 
 ### 📫 Connect with me:
