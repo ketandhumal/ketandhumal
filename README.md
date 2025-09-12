@@ -46,9 +46,3 @@
 
 ---
 
-### ⚡ Cloud Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ketandhumal&color=brightgreen" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/AWS-Learning-informational?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Learning-blue?style=flat&logo=microsoftazure&logoColor=white" />
-</p>
