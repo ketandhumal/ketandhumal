@@ -29,14 +29,6 @@
 </p>
 
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketandhumal&show_icons=true&theme=radical" alt="Ketan's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketandhumal&layout=compact&theme=radical" alt="Top languages" />
-</p>
 
 ---
 
